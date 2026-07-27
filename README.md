@@ -28,7 +28,7 @@ O sistema funciona como um pequeno banco de dados em arquivo JSON, permitindo ca
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - Python 3
 - JSON
