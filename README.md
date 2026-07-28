@@ -107,7 +107,7 @@ Antes da exclusão, o sistema apresenta os dados do aluno para confirmação.
 
 ---
 
-## ✔️ Validações
+## Validações
 
 O sistema realiza diversas validações, como:
 
