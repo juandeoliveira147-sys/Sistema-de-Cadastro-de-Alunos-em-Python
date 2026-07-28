@@ -89,7 +89,7 @@ Lista todos os alunos cadastrados mostrando:
 
 ---
 ## Observações
-Sempre será gerado um novo id maior que o anterior, com o uso da função `max()` de Python, para a garantia de que não tenha id duplicado
+Sempre será gerado um novo id maior que o anterior, com o uso da função `max()` de Python, para a garantia de que não tenha ID duplicado
 
 ---
 
