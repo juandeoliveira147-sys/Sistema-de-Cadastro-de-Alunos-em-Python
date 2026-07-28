@@ -145,7 +145,7 @@ Este projeto faz parte da minha jornada de estudos em Python e tem como objetivo
 
 ---
 
-#### Sobre o projeto:
+# Sobre o projeto:
 
 ## Este projeto significa mais um passo no aprendizado da linguagem Python, irei me aprimorar e evoluir cada vez mais!
 ---
